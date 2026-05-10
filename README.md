@@ -1,0 +1,2 @@
+# JavaScript-Logic-Lab-Operators-Variables-and-DOM-Manipulation
+This project is a technical deep dive into the core mechanics of JavaScript (ES6+), focusing on how the browser interprets data, performs calculations, and interacts with user input. While the visual design is kept minimal, the underlying code explores the "brain" of a web application—moving from static HTML to dynamic, logic-driven content
